@@ -1,3 +1,8 @@
+/* Task Snail Run from CodinGame
+https://www.codingame.com/ide/puzzle/snail-run
+*/
+
+
 #include <iostream>
 #include <string>
 #include <vector>
